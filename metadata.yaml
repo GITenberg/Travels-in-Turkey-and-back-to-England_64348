@@ -1,5 +1,5 @@
 _repo: Travels-in-Turkey-and-back-to-England_64348
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Mead, Richard
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '35057'
     url: http://www.gutenberg.org/2009/agents/35057
     wikipedia: http://en.wikipedia.org/wiki/Richard_Mead
+covers:
+- cover_type: archival
+  image_path: 64348-h/images/cover.jpg
 creator:
   author:
     agent_name: Chishull, Edmund
     gutenberg_agent_id: '52859'
     url: http://www.gutenberg.org/2009/agents/52859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64348#Travels-in-Turkey-and-back-to-England
 gutenberg_issued: '2021-01-20'
 gutenberg_type: Text
 identifiers:
